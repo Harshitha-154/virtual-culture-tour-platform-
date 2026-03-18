@@ -1,4 +1,4 @@
-# 🚀 Project Title
+# 🚀 Virtual Culture Tour Platform
 
 _A modern web application built for Triwizardathon Hackathon_
 
